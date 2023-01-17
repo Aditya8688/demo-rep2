@@ -1,3 +1,4 @@
 first line
 ----------------------------
 feature branch
+second line
