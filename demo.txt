@@ -1,11 +1,7 @@
 first line
 second line
-<<<<<<< HEAD
 third line
 fourth line
 --------------
 revert this
 --------------
-=======
-third line
->>>>>>> parent of 7fdc4aa (Revert "Revert "fourth line"")
